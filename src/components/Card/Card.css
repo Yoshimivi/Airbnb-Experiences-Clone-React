@@ -1,0 +1,37 @@
+.card {
+  width: 176px;
+  font-size: 12px;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.bold {
+  font-weight: bold;
+}
+
+.gray {
+  color: #918E9B;
+}
+
+.cardStats {
+  display: flex;
+}
+
+.card img {
+  width: 100%;
+  border-radius: 9px;
+}
+
+.cardStats img {
+  width: 14px;
+}
+
+.soldOut {
+  position: absolute;
+  top: 6px;
+  left: 6px;
+  background-color: white;
+  padding: 5px 7px;
+  border-radius: 2px;
+  font-weight: bold;
+}

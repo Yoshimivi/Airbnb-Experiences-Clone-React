@@ -1,0 +1,12 @@
+nav {
+  width: 550px;
+  height: 70px;
+  padding-left: 30px;
+  padding-top: 22px;
+  box-shadow: 0 1px 10px rgba(0, 0, 0, 0.199);
+}
+
+nav img {
+  width: 82.02px;
+  height: 25.35px;
+}
